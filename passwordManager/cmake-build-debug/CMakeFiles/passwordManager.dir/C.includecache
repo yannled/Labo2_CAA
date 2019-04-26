@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/UserInteraction.h
+stdio.h
+-
+
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/crypto.c
+crypto.h
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/crypto.h
+
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/crypto.h
+sodium.h
+-
+string.h
+-
+
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/main.c
+stdio.h
+-
+string.h
+-
+crypto.h
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/crypto.h
+UserInteraction.h
+/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/passwordManager/UserInteraction.h
+

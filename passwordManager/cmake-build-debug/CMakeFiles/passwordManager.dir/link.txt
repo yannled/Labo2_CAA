@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/passwordManager.dir/main.c.o CMakeFiles/passwordManager.dir/UserInteraction.c.o CMakeFiles/passwordManager.dir/Crypto.c.o CMakeFiles/passwordManager.dir/FileManager.c.o CMakeFiles/passwordManager.dir/base64.c.o  -o passwordManager 
