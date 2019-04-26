@@ -179,5 +179,5 @@ return password when we type website
 
 
 
-![schema](/home/zutt/Documents/sync/Heig/CAA/Labo2_CAA/schema3.png)
+![schema](./schema3.png)
 
